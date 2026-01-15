@@ -99,5 +99,8 @@ This project demonstrates:
     Results interpretation
 
     Recommendations 
+--
 
-    This project was completed as part of a Data Analytics final assessment, demonstrating comprehensive data analysis skills from data cleaning to insight generation and professional presentation.
+    This project was completed as part of a Data Analytics final assessment, 
+    demonstrating comprehensive data analysis skills from data cleaning
+    to insight generation and professional presentation.
